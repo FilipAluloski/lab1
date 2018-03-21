@@ -1,0 +1,11 @@
+commit 0f9f1e283296b419d6546679ef296254a7be9d25
+Author: unknown <filip.aluloski@students.finki.ukim.mk>
+Date:   Wed Mar 21 17:34:17 2018 +0100
+
+    modify l1.txt
+
+commit a9a4c80055f9999bb9dab9bc8e56e0157681a5c4
+Author: unknown <filip.aluloski@students.finki.ukim.mk>
+Date:   Wed Mar 21 17:32:30 2018 +0100
+
+    Initial commit
