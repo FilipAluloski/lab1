@@ -1,0 +1,29 @@
+cd Documents
+mkdir lab1
+cd lab1
+git init
+git status
+touch l1.txt
+git add l1.txt
+git commit -m "Initial commit"
+git add .
+git commit -m "modify l1.txt"
+git remote add origin https://github.com/FilipAluloski/lab1
+git push -u origin master
+git reset --hard
+git branch logging
+git checkout logging
+git log
+notepad log.txt
+git push origin logging
+git checkout loggin
+git add log.txt
+git commit -m "ADD log.txt"
+git checkout master
+git merge logging
+git push 
+git branch allcommands
+git checkout allcommands
+git notepad commands.txt
+
+
